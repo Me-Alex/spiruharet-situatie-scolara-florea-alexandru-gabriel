@@ -18,10 +18,10 @@ window.addEventListener("DOMContentLoaded", () => {
     select.addEventListener('change', () => {
         const index = select.selectedIndex;
         if (index == 1) {
-            window.location.pathname = "/note-an-trei.html";
+            window.location.pathname = "spiruharet-situatie-scolara-florea-alexandru-gabriel/note-an-trei.html";
         }
         if(index==0){
-            window.location.pathname = "/index.html";
+            window.location.pathname = "spiruharet-situatie-scolara-florea-alexandru-gabriel/index.html";
         }
 
     })
